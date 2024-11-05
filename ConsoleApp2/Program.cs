@@ -2,4 +2,6 @@
 
 Console.WriteLine("dette er anden linje til denne fil");
 
+Console.WriteLine("dette er tredje linje til denne fil");
+
 Console.ReadLine();
