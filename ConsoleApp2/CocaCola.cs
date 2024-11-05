@@ -11,5 +11,6 @@ namespace ConsoleApp2
         public string Flavour { get; set; }
         public DateTime ProductionDate { get; set; }
         public decimal Price { get; set; }
+        public DateTime BestBefore { get; set; }
     }
 }
